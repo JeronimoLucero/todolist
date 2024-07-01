@@ -1,0 +1,11 @@
+.card{
+    width: 700px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.completada{
+text-decoration: line-through;
+}
